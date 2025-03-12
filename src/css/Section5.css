@@ -124,7 +124,7 @@
         .vr .text2{font-size: 2rem; line-height: 2.9rem;}
     }
 
-    @media (max-width: 360px) {
+    @media (max-width: 460px) {
         .vr .VrTour ul li:nth-of-type(1){
             left: 140px;
             bottom: 190px;
