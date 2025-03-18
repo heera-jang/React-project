@@ -418,6 +418,9 @@
     .sub5 .output_box .output_info table thead th{
         font-size: 1.2rem;
     }
+    .sub5 .search_name{
+        display: none;
+    }
 
             
 }
@@ -446,7 +449,5 @@
 }
 
 @media screen and (max-width:360px){
-    .sub5 .search_name{
-        display: none;
-    }
+    
 }
